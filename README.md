@@ -77,8 +77,3 @@ The master coordinates the tasks and handles communication with the workers.
 
 ---
 
-## 🛡️ Recommendations
-
-- Always verify SSH connectivity between machines before launching the system.
-- The system is **scalable** by design, but the benefits may decrease as coordination overhead grows.
-
